@@ -1,1 +1,1 @@
-# ccm_ejercicios-js.vainilla2
+# ccm_ejercicios-js.vanilla2
